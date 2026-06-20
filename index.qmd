@@ -1,5 +1,5 @@
 ---
-title: "HDAT9600-Meichen-blog"
+title: "HDAT9800-Meichen-blog"
 listing:
   contents: posts
   feed: true

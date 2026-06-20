@@ -4,7 +4,7 @@ project:
 
 website:
   description: "A blog built with Quarto"
-  site-url: site-url: https://meichen-kingsley.github.io/HDAT9800-Meichen-blog/ # you must change this appropriately for RSS feeds to work properly
+  site-url: https://meichen-kingsley.github.io/HDAT9800-Meichen-blog/ # you must change this appropriately for RSS feeds to work properly
   title: "HDAT9800-Meichen-blog"
   navbar:
     right:
