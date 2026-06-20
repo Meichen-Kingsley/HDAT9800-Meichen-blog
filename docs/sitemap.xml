@@ -1,23 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://your-website-url.example.com/posts/welcome/index.html</loc>
+    <loc>https://meichen-kingsley.github.io/HDAT9800-Meichen-blog/posts/welcome/index.html</loc>
     <lastmod>2026-06-20T00:27:22.168Z</lastmod>
-  </url>
-  <url>
-    <loc>https://your-website-url.example.com/index.html</loc>
-    <lastmod>2026-06-20T00:20:56.770Z</lastmod>
-  </url>
-  <url>
-    <loc>https://your-website-url.example.com/about.html</loc>
-    <lastmod>2026-06-20T00:19:50.216Z</lastmod>
-  </url>
-  <url>
-    <loc>https://your-website-url.example.com/posts/post-with-code/index.html</loc>
-    <lastmod>2026-06-20T00:19:50.215Z</lastmod>
   </url>
   <url>
     <loc>https://meichen-kingsley.github.io/HDAT9800-Meichen-blog/index.html</loc>
     <lastmod>2026-06-20T01:15:17.346Z</lastmod>
+  </url>
+  <url>
+    <loc>https://meichen-kingsley.github.io/HDAT9800-Meichen-blog/about.html</loc>
+    <lastmod>2026-06-20T00:19:50.216Z</lastmod>
+  </url>
+  <url>
+    <loc>https://meichen-kingsley.github.io/HDAT9800-Meichen-blog/posts/post-with-code/index.html</loc>
+    <lastmod>2026-06-20T00:19:50.215Z</lastmod>
   </url>
 </urlset>
